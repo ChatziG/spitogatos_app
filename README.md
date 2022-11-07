@@ -19,3 +19,4 @@
 -	Modify the connection info in the **db_connection.php** file, in order to correspond to your machine.
 -	In a web browser, visit **localhost/spitogatos_app** (if this does not work, try visiting _localhost/spitogatos_app/index.php_)
 
+### _In the **Spitogatos_Assignment_screenshots.pdf** there are presented some screenshots of the execution of the application._
